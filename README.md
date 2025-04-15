@@ -97,7 +97,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varenya-ramayanam&show_icons=true&count_private=true&theme=dracula" height="150" />
+ <!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=varenya-ramayanam&show_icons=true&theme=radical&hide_border=true" height="150"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varenya-ramayanam&layout=compact&theme=dracula" height="150" />
 </div>
 
