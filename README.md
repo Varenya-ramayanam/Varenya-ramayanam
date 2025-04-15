@@ -6,6 +6,27 @@
 
 ---
 
+
+<h3 align="left">How to reach me:</h3>
+ 
+ <a href="mailto:ramayanamvarenya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+</a>
+
+ ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/varenya ramayanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varenya ramayanam" height="30" width="40" /></a>
+<a href="https://instagram.com/varenya-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varenya-r" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/varenyar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="varenyar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@22331a05e7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@22331a05e7" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/varenyaramayanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varenyaramayanam" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/varenyaraj0mn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="varenyaraj0mn" height="30" width="40" /></a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -82,21 +103,6 @@
 
 ---
 
-### 🔗 Let's Connect
-
-<div align="left">
-  <a href="https://www.instagram.com/varenya_r/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:ramayanamvarenya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/varenya-ramayanam-a357ba2ab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
-
----
 
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=varenya-ramayanam.varenya-ramayanam&left_text=Profile%20Views" />
